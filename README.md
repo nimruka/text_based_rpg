@@ -18,3 +18,15 @@ This a text-based RPG game built using HTML, CSS and Python and hosted on AWS cl
 - Backend logic built using Python
 - Frontend developed using HTML and CSS
 - Hosted on AWS
+
+# Development Process
+
+The devellopment of the project can be divided into seperate sub steps.
+- Creating and setting up a Instance on AWS
+- Setting up public IP for the instance using Elastic IP
+- Setting up inbound and outbound neytwork traffic through VPC and Security Groups
+- Buying a domain name through AWS Route 53
+- Accessing the Instance via the domain name using Route53 Hosted Zones
+- Setting up SSL using certbot
+- Developing the Text base game using HTML, CSS and Python
+- Testing the code and finalizing
