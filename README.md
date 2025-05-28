@@ -30,3 +30,5 @@ The devellopment of the project can be divided into seperate sub steps.
 - Setting up SSL using certbot
 - Developing the Text base game using HTML, CSS and Python (Flask).
 - Testing the code and finalizing
+
+**For the development development diary checkout "Changelog.md"**
