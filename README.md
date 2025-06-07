@@ -31,4 +31,23 @@ The devellopment of the project can be divided into seperate sub steps.
 - Developing the Text base game using HTML, CSS and Python (Flask).
 - Testing the code and finalizing
 
+## Additional Feature
+
+# Bash Utility: RPG Stat Manager
+To demonstrate CLI scripting knowledge, I created a Bash tool (rpg_stats.sh) that allows saving and loading character stats to a file. This simulates external developer tools that might support a text-based RPG engine like Twine.
+
+The script allows input of:
+
+Player Name
+
+Health
+
+Strength
+
+Intelligence
+
+Dexterity
+
+This showcases integration of shell scripting with storytelling/game logic.
+
 **For the development development diary checkout "Changelog.md"**
