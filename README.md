@@ -50,4 +50,7 @@ Dexterity
 
 This showcases integration of shell scripting with storytelling/game logic.
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **For the development development diary checkout "Changelog.md"**
