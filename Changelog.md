@@ -12,3 +12,8 @@
 - 4 pessages added
 - 5 choices added
 - Stats menue added
+
+## 07/06/2025
+- Created a bash script menue to load and save player stats
+- 7 passages added
+- Demo end added
