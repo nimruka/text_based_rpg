@@ -17,3 +17,4 @@
 - Created a bash script menue to load and save player stats
 - 7 passages added
 - Demo end added
+- Added a backup.sh to backup files the website into a zip file every 3 hours
