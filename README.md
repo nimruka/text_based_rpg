@@ -7,6 +7,8 @@ A text-based rpg game built with HTML, CSS and Python for ICt171 Assignment 2 Cl
 
 **Student ID: 35428054**
 
+**Website URL: https://project.nliyon.click/**
+
 # Introduction
 This is my cloud project assignment 2 for Murdoch University ICT171 Introduction to Server Environments and Architectures module.
 
