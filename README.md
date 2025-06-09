@@ -30,8 +30,10 @@ The devellopment of the project can be divided into seperate sub steps.
 - Buying a domain name through AWS Route 53
 - Accessing the Instance via the domain name using Route53 Hosted Zones
 - Setting up SSL using certbot
-- Developing the Text base game using HTML, CSS and Python (Flask).
+- Developing the Text base game using HTML, CSS and JS (using twinery game engine).
 - Testing the code and finalizing
+
+**Detailed process documentation of the development can be found in [Detailed_process_guide](Detailed_process_guide.md)**
 
 # Additional Feature
 
@@ -51,6 +53,9 @@ Intelligence
 Dexterity
 
 This showcases integration of shell scripting with storytelling/game logic.
+
+## Detailed Process
+
 
 ## Assignment Guide Video
 
@@ -74,4 +79,4 @@ See the [LICENSE](LICENSE) file for full license text.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**For the development development diary checkout "Changelog.md"**
+**For the development development diary checkout [Changelog](Changelog,md)**
