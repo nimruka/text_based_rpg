@@ -1,5 +1,5 @@
 # text_based_rpg
-A text-based rpg game built with HTML, CSS and Python for ICt171 Assignment 2 Cloud Project
+A text-based rpg game built with HTML, CSS and JavaScript for ICT171 Assignment 2 Cloud Project
 
 ### Student Info
 **Name: Nimruka Liyanaarachchi**
