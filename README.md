@@ -52,6 +52,11 @@ Dexterity
 
 This showcases integration of shell scripting with storytelling/game logic.
 
+## Assignment Guide Video
+
+- You can find the assignment video at [assignment02_final](assignment02_final)
+- Click on view raw to download the mp4 file.
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
