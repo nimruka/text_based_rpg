@@ -54,15 +54,18 @@ Dexterity
 
 This showcases integration of shell scripting with storytelling/game logic.
 
-## Detailed Process
+
+## Bash Script for auto backup
+
+- Added a bash script that backs up the website every 3 hours as a zip with date and time in the file name for easy recognition.
 
 
-## Assignment Guide Video
+# Assignment Guide Video
 
 - You can find the assignment video at [assignment02_final](assignment02_final.mp4)
 - Click on view raw to download the mp4 file.
 
-## License
+# License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
